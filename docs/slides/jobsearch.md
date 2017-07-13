@@ -17,10 +17,9 @@ Team #4
 This protocol will help them through the process of assessing their skills, use a VLE to go through a mock interview process and then give some suggestions as to companies that they may apply for. Helping them practice this process through a VLE will help them feel comfortable with the experience.
 
 ---
+<!-- .slide: data-state="textonimage" data-background-image="/images/jobprotocol.png" -->
 
-## Mockup
-
-![Mockup](kobprotocol.png)
+# Mockup
 
 ---
 
@@ -46,12 +45,12 @@ This protocol will help them through the process of assessing their skills, use 
 
 ---
 
-## Existing Videos
+## Existing Lynda.com Videos
 - [Applying for a Job](https://www.lynda.com/Graphic-Design-tutorials/Applying-job/577558/632195-4.html)
 - [Search for Jobs](https://www.lynda.com/LinkedIn-tutorials/Search-jobs/595944/599586-4.html)
 - [Work with Jobs](https://www.lynda.com/QuickBooks-Pro-tutorials/Work-jobs/504791/571015-4.html)
 - [Emerging Careers](https://www.lynda.com/Data-Science-tutorials/Emerging-careers/475941/517493-4.html)
-- [Provide Opportunities for Career Growt](https://www.lynda.com/Business-Skills-tutorials/Provide-opportunities-career-growth/570964/619649-4.html)
+- [Provide Opportunities for Career Growth](https://www.lynda.com/Business-Skills-tutorials/Provide-opportunities-career-growth/570964/619649-4.html)
 - [Career Paths](https://www.lynda.com/Web-Documentaries-tutorials/Career-Paths/56647/58727-4.html)
 
 ---
